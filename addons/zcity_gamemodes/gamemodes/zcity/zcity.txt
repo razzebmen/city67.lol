@@ -1,0 +1,16 @@
+"zcity"
+{
+	"base"			"darkrp"
+	"title"			"ZCity"
+	"maps"			"^rp_|^hmcd_|^md_|^mu_|^murder_|^zc|^zb"
+	"menusystem"	"1"
+	"category"		"rp"
+
+	"author_name"	"uzelezz, sadsalat, Mr. Point, Zac90, Deka, Mannytko"
+	"author_email"	""
+	"author_url"	""
+
+	"icon"			""
+	"info"			""
+	"hide"			"0"
+}

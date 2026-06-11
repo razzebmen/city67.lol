@@ -1,0 +1,7 @@
+// city67: модель bag_prop по дефолту ожидает bag_mat (тёмная). Переключаем
+// $basetexture на светлую версию (bag_mat_2) — пользователь хочет именно её.
+"VertexLitGeneric"
+{
+    "$basetexture" "mats/bag_prop/bag_mat_2"
+    "$bumpmap"     "mats/bag_prop/bag_mat_normal"
+}

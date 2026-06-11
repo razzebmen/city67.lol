@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+    "$basetexture"         "Skins/M16/ris/m16_ris_handguard_short_d"
+    "$bumpmap"             "models/weapons/arccw/ud_m16/ris/m16_ris_handguard_short_n"
+    
+    "$phong"               "1"
+    "$phongexponenttexture" "models/weapons/arccw/ud_m16/ris/m16_ris_handguard_short_r"
+    "$phongwarptexture"     "models/weapons/arccw/ud_stalol/phongwarp_metal"
+    "$phongboost"          "1.2" // Снизил с 2.0, чтобы темное цевье не выглядело стеклянным
+    "$phongfresnelranges"  "[1 4 8]"
+    "$phongalbedotint"     "1"
+
+    "$color2"					"[0.5 0.5 0.5]"
+    
+    "$envmap"              "env_cubemap"
+    "$normalmapalphaenvmapmask" "1"
+    "$envmaptint"          "[0.007 0.007 0.007]"
+}

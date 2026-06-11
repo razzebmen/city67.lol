@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "mats/bag_prop/bag_mat_2"
+    "$bumpmap"     "mats/bag_prop/bag_mat_normal"
+}

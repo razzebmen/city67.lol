@@ -1,0 +1,7 @@
+{
+	"title": "ZCity ULX God/Cloak Bridge",
+	"description": "Перенаправляет ULX !god / !ungod / !cloak / !uncloak на логику ZCity (organism.godmode, материал как zc_cloak).",
+	"type": "effects",
+	"tags": [ "admin", "utility" ],
+	"version": "1.0.0"
+}

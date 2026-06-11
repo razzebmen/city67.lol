@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/randy/ca_font"
+"$alphatest" 1
+$AlphaTestReference ".5"
+$model 1
+$halflambert 1
+$FlashlightNoLambert 1
+}

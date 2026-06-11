@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "Skins/Idf/band_idf_tail"
+
+	$envmap "env_cubemap"
+
+	$envmaptint "[0.15 0.15 0.15]"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+    "$basetexture"         "Skins/M16/m16_stock_endplate_d"
+    "$bumpmap"             "models/weapons/arccw/ud_m16/m16_stock_endplate_n"
+
+
+    "$color2"					"[0.7 0.7 0.7]"
+
+    "$phong"               "1"
+    "$phongalbedotint"     "1"
+    "$phongboost"          "0.2" 
+    "$phongfresnelranges"  "[1 4 8]"
+
+    "$halflambert"         "1"
+    "$nodecal"             "0"
+    "$ambientocclusion"    "1"
+}

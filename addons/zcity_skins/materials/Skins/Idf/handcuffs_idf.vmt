@@ -1,0 +1,13 @@
+// city67: ЦАХАЛ-скин для наручников. Применяется через SetSubMaterial.
+VertexLitGeneric
+{
+	$basetexture "Skins/Idf/handcuffs_idf"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.10 0.10 0.10]"
+
+	$phong               "1"
+	$phongboost          "0.4"
+	$phongfresnelranges  "[0.5 1.5 3.0]"
+	$halflambert         "1"
+}

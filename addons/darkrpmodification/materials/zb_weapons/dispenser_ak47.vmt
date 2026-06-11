@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "zb_weapons/dispenser_ak47"
+	"$model" 1
+	"$nocull" 0
+	"$surfaceprop" "metal"
+
+	// Лёгкий блик — корпус автомата для выдачи оружия
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.6"
+	"$phongfresnelranges" "[0.5 1.0 4.0]"
+}

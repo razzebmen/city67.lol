@@ -1,0 +1,6 @@
+﻿{
+	"title"	:	"ZCity Custom Lua (weapons, entities, effects, glide, homigrad, wos)",
+	"type"	:	"servercontent",
+	"tags"	:	[ "roleplay" ],
+	"ignore"	:	[ ]
+}
