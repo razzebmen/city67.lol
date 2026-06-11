@@ -9,3 +9,4 @@
 
 ## Установка
 Скопируйте папку `addons/` в `garrysmod/` сервера.
+Установить колекцию сервера https://steamcommunity.com/sharedfiles/filedetails/?id=3742607374
